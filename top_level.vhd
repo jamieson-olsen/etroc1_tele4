@@ -1,6 +1,6 @@
 -- top_level.vhd
--- OEI test code for Xilinx KC705 Development Board
--- Target: XC7K325T-2FFG900C
+-- ETROC1 Pixel Array 4 board telescope, using 4 GTX transcievers. Based loosely on Wei's test firmware.
+-- Xilinx KC705 Development Board / Target: XC7K325T-2FFG900C
 -- Uses single GTX Transceiver connected to SFP optical module
 -- Line rate is 1.25Gbps with refclk 125MHz
 -- GTX transceiver is in bank 117, transceiver 2: MGTXRXP2_117_G4, MGTXRXN2_117_G3, MGTXTXP2_117_H2, MGTXTXN2_117_H1
