@@ -22,7 +22,7 @@ There is one IP module that handles a single GTX transceiver and Ethernet PCS/PM
 
 There is another IP module that handles four GTX transceivers in one quad. These GTX transceivers are used to receive the 1.28Gbps data streams from the four ETROC1 devices.
 
-Testing...
+Another Test of Git SSH access.
 
 JTO
 
